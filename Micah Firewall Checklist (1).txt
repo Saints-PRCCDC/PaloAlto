@@ -1,0 +1,16 @@
+1. Ip Scanning and Mapping of Servers and Network
+Total Number of Client Machines, 8 
+Total Number of Servers, 5-6
+	a. Map Ips of every Physical computer via Paper
+	b. List those Ips in the corresponding Excel sheet already made.
+ nmap-7.91-setup.exe
+	d. Ipconfig 
+	c. nmap -sP -PI -PT Ip Gateway/24
+Compare virtually with ones we have  on paper
+Looking for IPS that are not apart of what we have
+
+2. Monitoring activity with PaloAlto 
+
+a. Every ten minutes were looking at logs
+b. Looking for outside zones to inside zones 
+c. report to peter if there is a red flag.
